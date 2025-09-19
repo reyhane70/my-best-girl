@@ -4,7 +4,7 @@ just testing github
 
 Short project description — what it does and why it exists.
 
- Features
+## Features
 - Feature 1
 - Feature 2
 
