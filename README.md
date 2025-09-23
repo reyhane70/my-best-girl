@@ -6,7 +6,7 @@ Short project description — what it does and why it exists.
 
 ## Features
 - Feature 1
-- Feature 
+- Feature 2
 
 ## Getting Started
 
