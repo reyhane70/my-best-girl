@@ -17,7 +17,7 @@ Short project description — what it does and why it exists.
 ### Installation
 `bash
 # clone the repo
-git clone https://github.com/<your-username>/<your-repo>.
+git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 
 # if Node.js project
