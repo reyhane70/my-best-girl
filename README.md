@@ -21,6 +21,7 @@ git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 
 # if Node.js project
+npm install
 
 # if Python project (optional)
 # python -m venv venv
